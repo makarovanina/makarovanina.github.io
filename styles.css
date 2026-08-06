@@ -538,6 +538,13 @@ textarea {
   margin: 12px 0;
 }
 
+.consultation-duration {
+  display: inline-block;
+  font-size: 2em;
+  line-height: 1;
+  white-space: nowrap;
+}
+
 .price-card ul {
   padding-left: 18px;
   margin: 0 0 18px;
